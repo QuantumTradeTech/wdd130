@@ -55,5 +55,8 @@
   // disable copilot chat
   "chat.agent.enabled": false,
   "chat.disableAIFeatures": true,
-  "terminal.integrated.initialHint": false
+  "terminal.integrated.initialHint": false,
+  "cSpell.words": [
+    "Taekwondo"
+  ]
 }
