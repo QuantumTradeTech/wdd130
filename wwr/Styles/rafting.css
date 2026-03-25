@@ -1,6 +1,6 @@
 :root {
     --primary-color: #262f90;
-    --secondary-color: #fff;
+    --secondary-color: #ffffff;
     --accent1-color: #355986;
     --accent2-color: #fff;
     --heading-font: "Times New Roman", "Georgia", serif;
@@ -14,8 +14,8 @@
 }
 
 header {
-    background-color: #fff;
-    color: #fff;
+    background-color: #ffffff;
+    color: #ffffff;
 
 }
 
@@ -43,7 +43,7 @@ p,
 section,
 article {
     margin: 16px;
-    padding: 8px;
+    padding: px;
 }
 
 .socialmedia a {
