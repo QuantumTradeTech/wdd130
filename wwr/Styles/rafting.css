@@ -1,8 +1,8 @@
 :root {
     --primary-color: #262f90;
-    --secondary-color: #f4a261;
+    --secondary-color: #fff;
     --accent1-color: #355986;
-    --accent2-color: #e9c46a;
+    --accent2-color: #fff;
     --heading-font: "Times New Roman", "Georgia", serif;
     --body-font: Arial, Helvetica, sans-serif;
 }
@@ -13,14 +13,16 @@
     box-sizing: border-box;
 }
 
+header {
+    background-color: #fff;
+    color: #fff;
+
+}
+
 body {
     font-family: var(--body-font);
     color: var(--accent1-color);
     background-color: #fff;
-}
-
-main {
-    max-width: x;
 }
 
 header,
@@ -68,11 +70,7 @@ h1 {
     color: #fff;
 }
 
-p {
-    margin-bottom: 1rem;
-}
-
-article {
+.hero article {
     position: absolute;
     padding: 4px;
     top: 338px;
