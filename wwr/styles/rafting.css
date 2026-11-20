@@ -149,7 +149,7 @@ article {
 
 }
 
-.adventure-photos {
+.adventure-photos figure {
     margin: 0;
     text-align: center;
 }
@@ -177,7 +177,7 @@ footer {
     margin-top: 40px;
     color: #fff;
     background-color: var(--secondary-color);
-    border-top: 3px var(--accent2-color);
+    border-top: 3px solid var(--accent2-color);
 }
 
 footer p {
