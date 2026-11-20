@@ -71,10 +71,6 @@ article {
     padding: 8px;
 }
 
-.socialmedia a {
-    text-decoration: none;
-}
-
 .hero {
     position: relative;
 }
@@ -150,11 +146,6 @@ article {
     gap: 25px;
     padding: 0 15px;
     height: auto;
-
-}
-
-.adventure-photos {
-    display: flex;
 
 }
 
